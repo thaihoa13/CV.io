@@ -1,0 +1,45 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .cv-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #2ecc71;
+    display: flex;
+  }
+  
+  .avatar {
+    padding: 20px;
+  }
+  
+  .avatar img {
+    max-width: 100%;
+    border-radius: 50%;
+  }
+  
+  .info {
+    padding: 20px;
+  }
+  
+  .body {
+    margin-top: 20px;
+  }
+  
+  .section {
+    background-color: #aad4aa;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
